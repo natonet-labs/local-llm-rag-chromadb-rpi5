@@ -1,7 +1,6 @@
-# Local LLM + RAG on Raspberry Pi 5 (Psychology OER, Ollama + ChromaDB)
+# Local LLM + RAG on Raspberry Pi 5
 
 This README walks through a complete, repeatable setup of a **local RAG chatbot** on a **Raspberry Pi 5 (8GB)** using:
-
 - **Ollama** for local LLM + embeddings
 - **ChromaDB** for vector storage (persistent on external SSD)
 - **Python** pipeline ingesting **PositivePsychology.com** RSS (Open Educational Resources for wellbeing)
